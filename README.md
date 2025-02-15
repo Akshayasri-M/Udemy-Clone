@@ -14,5 +14,8 @@ This project is a Udemy Clone created using HTML and CSS with Flexbox. It mimics
 • Course Cards: Displays course categories with images, titles, and descriptions in a neat grid layout.
 • Footer Section: Contains useful links and copyright information.
 
+# Repository
+https://akshayasri-m.github.io/Udemy-Clone/
+
 # Contributing
 Feel free to fork the repository, make changes, and open pull requests if you have improvements to suggest.
